@@ -1,0 +1,31 @@
+.main {
+  height: 100%;
+  min-height: 100vh;
+
+  &_wrapper {
+    display: flex;
+    height: 100%;
+
+    &-dashboard {
+      width: 18%;
+    }
+
+    &-content {
+      width: 82%;
+    }
+  }
+}
+
+.light {
+  background: #F4F5FA;
+  color: #3A3541DE;
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+.dark {
+  background: #28243D;
+  color: #E7E3FCDE;
+  font-family: 'Inter';
+  font-weight: 400;
+}

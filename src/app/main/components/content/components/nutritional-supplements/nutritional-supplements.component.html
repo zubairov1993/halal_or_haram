@@ -1,0 +1,34 @@
+<div id="table_responsive" class="supplements table-responsive">
+  <div>
+
+    <mat-form-field appearance="outline">
+      <mat-label>Outline form field</mat-label>
+      <input matInput placeholder="Placeholder">
+    </mat-form-field>
+  </div>
+
+  <table mat-table [dataSource]="dataSource" class="supplements__table" id="supplements__table">
+
+    <ng-container matColumnDef="number">
+      <th mat-header-cell *matHeaderCellDef>{{ 'table.additive' | translate }}</th>
+      <td mat-cell *matCellDef="let element">{{ element.number }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="status">
+      <th mat-header-cell *matHeaderCellDef>{{ 'table.status' | translate }}</th>
+      <td mat-cell *matCellDef="let element" [class]="getClassColor(element.status)">{{ element.status }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="name">
+      <th mat-header-cell *matHeaderCellDef>{{ 'table.name' | translate }}</th>
+      <td mat-cell *matCellDef="let element">
+        <div *ngIf="translateService.currentLang === 'ru'">{{ element.namerus }}</div>
+        <div *ngIf="translateService.currentLang === 'en'">{{ element.namelat }}</div>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+</div>
+

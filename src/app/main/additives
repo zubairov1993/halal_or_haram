@@ -1,0 +1,543 @@
+
+
+Е319 ; HALAL ; Третичный бутилгидрохинон ; Tert-butylhydroquinone
+E100 ; HALAL ; Краситель ; Colouring
+E101 ; HALAL ; Рибофлавин (витамин B2) ; Riboflavin (vitamin B2)
+E102 ; HALAL ; Тартразин ; Tartrazine
+E103 ; HALAL ; Алканет ; chrysoine resorcinol
+E104 ; HALAL ; Желтый хинолиновый ; Quinoline Yellow
+E105 ; HALAL ; Желтый прочный AB ; Fast Yellow AB
+E106 ; HALAL ; Рибофлавин-5 &#039;-фосфат натрия, натриевая соль витамина В2 ; Riboflavin-5-Phospate sodium salt, Vitamin B2 phospate sodium
+E107 ; HALAL ; Желтый 2G ; Yellow 2G
+E110 ; HALAL ; Желтый &quot;Солнечный закат&quot;; Sunset Yellow FCF (Orange Yellow S)
+E1103 ; HALAL ; Фермент инвертаза ; Invertase enzyme
+E1105 ; HALAL ; Фермент лизоцим ; Lysozyme enzyme
+E120 ; HARAM ; Кошениль/карминовая кислота ; Cochineal/carminic acid
+E1200 ; HALAL ; Полидекстроза ; Polydextrose
+E1201 ; HALAL ; Поливинилпирролидон ; Polyvinylpyrrolidone
+E122 ; HALAL ; Краситель ; Colouring
+E123 ; HALAL ; Краситель ; Colouring
+E124 ; HALAL ; Пунцовый 4R ; Ponceau 4r/cochineal red a
+E125 ; HALAL ; Краситель ; Colouring
+E126 ; HALAL ; Краситель ; Colouring
+E127 ; HALAL ; Краситель ; Colouring
+E128 ; HALAL ; Краситель ; Colouring
+E129 ; HALAL ; Краситель ; Colouring
+E131 ; HALAL ; Краситель ; Colouring
+E132 ; HALAL ; Краситель ; Colouring
+E133 ; HALAL ; Краситель ; Colouring
+E140 ; HALAL ; Хлорофилл ; Chlorophyll
+E1400 ; HALAL ; Декстрин ; Dextrin
+E1401 ; HALAL ; Крахмал, обработанный кислотой ; Acid-treated starch
+E1404 ; HALAL ; Крахмал окисленный ; Oxidized starch
+E141 ; HALAL ; Медные комплексы хлорофиллов ; Copper complexes of chlorophylls
+E1410 ; HALAL ; Загуститель, стабилизатор ; Thickener, stabilizer
+E1412 ; HALAL ; Дикрахмалфосфат ; Distarch phosphate
+E1413 ; HALAL ; Фосфатированный дикрахмалфосфат ; Phosphated distarch phosphate
+E142 ; HALAL ; Зеленый S ; Green S/acid brilliant green bs
+E1420 ; HALAL ; Ацетилированный крахмал ; Acetylated starch
+E1422 ; HALAL ; Ацетилированный дикрахмалфосфат ; Acetylated distarch phosphate
+E1442 ; HALAL ; Гидроксипропил дикрахмалфосфат ; Hydroxy propyl distarch phosphate
+E1450 ; HALAL ; Эфир крахмала и натриевой соли октенилянтарной кислоты ; Starch sodium octenyl succinate
+E1451 ; HALAL ; Ацетилированный окисленный крахмал ; Acetylated oxidised starch
+E150 (A-D) ; HALAL ; Сахарный колер с химическими добавками ; Caramel colour/with chemicals
+E1505 ; HALAL ; Триэтилцитрат ; Triethyl citrate
+E151 ; HALAL ; Черный блестящий BN ; Black pn/brillliant black pn
+E1518 ; HALAL ; Триацетин ; Glyceryl triacetate, triacetin
+E1520 ; HALAL ; Пропиленгликоль ; Propylene glycol
+E153 ; HALAL ; Уголь растительный ; Carbon black/vegetable carbon
+E154 ; HALAL ; Коричневый FK ; Brown fk
+E155 ; HALAL ; Коричневый HT ; Brown ht
+E160A ; HALAL ; Альфа-, бета-, гамма-каротины ; Alpha-carotene, Beta-carotene, Gamma-carotene
+E160B ; HALAL ; Аннато, биксин, норбиксин ; Annatto, bixin, norbixin
+E160C ; HALAL ; Капсантин, капсорубин ; Capsanthin, capsorubin
+E160D ; HALAL ; Ликопин ; Lycopene
+E160E ; HALAL ; Каротиновый альдегид ; Beta-apo-8 &#039;-carotenal
+E160F ; HALAL ; Этиловый эфир каротиновой кислоты ; Ethyl ester of beta-apo-8 &#039;-carotenic acid
+E161A ; HALAL ; Флавоксантин ; Flavoxanthin
+E161B ; HALAL ; Лютеин ; Lutein
+E161C ; HALAL ; Криптоксантин ; Cryptoxanthin
+E161D ; HALAL ; Рубиксантин ; Rubixanthin
+E161E ; HALAL ; Виолоксантин ; Violaxanthin
+E161F ; HALAL ; Родоксантин ; Rhodoxanthin
+E161G ; HALAL ; Кантаксантин ; Canthaxanthin
+E162 ; HALAL ; Свекольный красный, бетанин ; Beetroot Red, Betanin
+E163 ; HALAL ; Антоцианы ; Anthocyanins
+E170 ; HALAL ; Карбонаты кальция ; Calcium carbonate, Chalk
+E171 ; HALAL ; Диоксид титана ; Titanium dioxide
+E172 ; HALAL ; Оксиды и гидроксиды железа ; Iron oxides and iron hydroxides
+E173 ; HALAL ; Алюминий ; Aluminium
+E174 ; HALAL ; Серебро ; Silver
+E175 ; HALAL ; Золото ; Gold
+E180 ; HALAL ; Рубиновый литол ВК ; Pigment Rubine, Lithol Rubine BK
+Е200 ; HALAL ; Сорбиновая кислота ; Sorbic acid
+Е201 ; HALAL ; Сорбат натрия ; Sodium sorbate
+Е202 ; HALAL ; Сорбат калия ; Potassium sorbate
+Е203 ; HALAL ; Сорбат кальция ; Calcium sorbate
+Е210 ; HALAL ; Бензойная кислота ; Benzoic acid
+Е211 ; HALAL ; Бензоат натрия ; Sodium benzoate
+Е212 ; HALAL ; Бензоат калия ; Potassium benzoate
+Е213 ; HALAL ; Бензоат кальция ; Calcium benzoate
+Е214 ; HALAL ; Пара-гидроксибензойной кислоты этиловый эфир ; Ethyl 4- hydroxybenzoate
+Е215 ; HALAL ; Пара-гидроксибензойной кислоты этилового эфира натриевая соль ; Sodium ethyl 4-hydroxybenzoate
+Е216 ; HALAL ; Пара-оксибензойной кислоты пропиловый эфир ; propyl 4-hydroxybenzoate
+Е217 ; HALAL ; Пара-оксибензойной кислоты пропилового эфира натриевая соль ; Sodium propyl 4-hydroxybenzoate
+Е218 ; HALAL ; Пара-гидроксибензойной кислоты метиловый эфир ; methyl 4-hydroxybenzoate
+Е219 ; HALAL ; Пара-гидроксибензойной кислоты метилового эфира натриевая соль ; Sodium methyl4- hydroxybenzoate
+Е220 ; HALAL ; Диоксид серы ; Sulphur dioxide
+Е221 ; HALAL ; Сульфит натрия ; Sodium sulphite
+Е222 ; HALAL ; Гидросульфит натрия ; sodium hydrogen sulphite
+Е223 ; HALAL ; Пиросульфит натрия ; Sodium metabisulphite
+Е224 ; HALAL ; Пиросульфит калия ; Potassium metabisulphite
+Е225 ; HALAL ; Сульфит калия ; Potassium sulphite
+Е226 ; HALAL ; Сульфит кальция ; Calcium sulphite
+Е227 ; HALAL ; Гидросульфит кальция ; Calcium hydrogen sulphite
+Е228 ; HALAL ; Гидросульфит калия ; Potassium hydrogen sulphite
+Е230 ; HALAL ; Бифенил, дифенил ; Biphenyl, diphenyl
+Е231 ; HALAL ; Ортофенилфенол ; Orthophenyl phenol
+Е232 ; HALAL ; Ортофенилфенол натрия ; Sodium orthophenyl phenol
+Е233 ; HALAL ; Тиабендазол ; Thiabendazole
+Е234 ; HALAL ; Низин ; Nisin
+Е235 ; HALAL ; Натамицин ; Natamycin
+E239 ; HALAL ; Гексаметилентетрамин ; Hexamine
+E242 ; HALAL ; Диметилдикарбонат ; Dimethyl dicarbonate
+E249 ; HALAL ; Нитрит калия ; Potassium nitrite
+E250 ; HALAL ; Нитрит натрия ; Sodium nitrite
+E251 ; HALAL ; Нитрат натрия ; Sodium nitrate
+E252 ; HALAL ; Нитрат калия ; Potassium nitrate
+E260 ; HALAL ; Уксусная кислота ; Acetic acid
+E261 ; HALAL ; Ацетат калия ; Potassium acetate
+E262 ; HALAL ; Ацетат натрия ; Sodium acetates
+E263 ; HALAL ; Ацетат кальция ; Calcium acetate
+E264 ; HALAL ; Ацетат аммония ; Ammonium acetate
+E270 ; HALAL ; Молочная кислота ; Lactic acid
+E280 ; HALAL ; Пропионовая кислота ; Propionic acid
+E281 ; HALAL ; Пропионат натрия ; Sodium propionate
+E282 ; HALAL ; Пропионат кальция ; Calcium propionate
+E283 ; HALAL ; Пропионат калия ; Potassium propionate
+E284 ; HALAL ; Борная кислота ; Boric acid
+E285 ; HALAL ; Тетраборат натрия (боракс) ; Sodium tetraborate, borax
+E290 ; HALAL ; Диоксид углерода ; Carbon dioxide
+E296 ; HALAL ; Яблочная кислота ; Malic acid
+E297 ; HALAL ; Фумаровая кислота ; Fumaric acid
+E300 ; HALAL ; Аскорбиновая кислота (Витамин С) ; Ascorbic acid (Vitamin C)
+E301 ; HALAL ; Аскорбат натрия ; Sodium ascorbate
+E302 ; HALAL ; Аскорбат кальция ; Calcium ascorbate
+E304 ; HALAL ; Аскорбилпальмитат ; Ascorbyl palmitate
+E306 ; HALAL ; Антиоксидант - витамин Е ; Antioxidants - vitamin E
+E307 ; HALAL ; Синтетический Альфа-токоферол ; Alpha-Tocopherol (synthetic)
+E308 ; HALAL ; Синтетический Гамма-токоферол ; Gamma-Tocopherol (synthetic)
+E309 ; HALAL ; Синтетический Дельта - токоферол ; Delta-Tocopherol (synthetic)
+E310 ; HALAL ; Пропилгаллат ; Propyl gallate
+E311 ; HALAL ; Октилгаллат ; Octyl gallate
+E312 ; HALAL ; Додецилгаллат ; Dodecyl gallate
+E315 ; HALAL ; Эриторбовая кислота ; Erythorbic acid
+E316 ; HALAL ; Эриторбат натрия ; Sodium erythorbate
+E320 ; HALAL ; Бутилгидроксианизол ; Butylated hydroxyanisole (BHA)
+E321 ; HALAL ; Бутилгидрокситолуол ; Butylated hydroxytoluene (BHT)
+E322 ; HALAL ; Лецитин ; Lecithin
+E325 ; HALAL ; Лактат натрия ; Sodium lactate
+E326 ; HALAL ; Лактат калия ; Potassium lactate
+E327 ; HALAL ; Лактат кальция ; Calcium lactate
+E330 ; HALAL ; Лимонная кислота ; Citric acid
+E331 ; HALAL ; Цитраты натрия ; Sodium citrates
+E332 ; HALAL ; Цитраты калия ; Potassium citrates
+E333 ; HALAL ; Цитраты кальция ; Calcium citrates
+E334 ; HALAL ; Винная кислота ; Tartaric acid
+E335 ; HALAL ; Тартраты натрия ; Sodium tartrates
+E336 ; HALAL ; Тартраты калия ; Potassium tartrates (cream of)
+E337 ; HALAL ; Тартраты калия-натрия ; Potassium sodium tartrate
+E338 ; HALAL ; Ортофосфорная кислота ; Orthophosphoric acid
+E339 ; HALAL ; Фосфаты натрия ; Sodium phosphates
+E340 ; HALAL ; Фосфаты калия ; Potassium phosphates
+E341 ; HALAL ; Фосфаты кальция ; Calcium phosphates
+E343 ; HALAL ; Фосфаты магния ; Magnesium phosphates
+E350 ; HALAL ; Малат натрия ; Sodium malate
+E351 ; HALAL ; Малат калия ; Potassium malate
+E352 ; HALAL ; Малат кальция ; Calcium malate
+E353 ; HALAL ; Мета-винная кислота ; Metatartaric acid
+//------
+E354 ; HARAM ; Тартрат кальция ; Calcium tartrate
+//------
+E355 ; HALAL ; Адипиновая кислота ; Adipic acid
+E356 ; HALAL ; Адипат натрия ; Sodium adipate
+E357 ; HALAL ; Адипат калия ; Potassium adipate
+E363 ; HALAL ; Янтарная кислота ; Succinic acid
+E370 ; HALAL ; Гептонолактон ; 1,4-Heptonolactone
+E375 ; HALAL ; Никотиновая кислота ; Nicotinic acid
+E380 ; HALAL ; Цитрат аммония ; Triammonium citrate
+E381 ; HALAL ; Железо-аммонийный цитрат ; Ammonium ferric citrate
+E385 ; HALAL ; Этилендиаминтетраацетат кальция-натрия ; Calcium disodium EDTA
+E400 ; HALAL ; Альгиновая кислота ; Alginic acid
+E401 ; HALAL ; Альгинат натрия ; Sodium alginate
+E402 ; HALAL ; Альгинат калия ; Potassium alginate
+E403 ; HALAL ; Альгинат аммония ; Ammonium alginate
+E404 ; HALAL ; Альгинат кальция ; Calcium alginate
+E405 ; HALAL ; Пропан-1,2-диол альгинат ; Propane-1,2-diol alginate
+E406 ; HALAL ; Агар ; Agar
+E407 ; HALAL ; Каррагенан ; Carrageenan
+E410 ; HALAL ; Камедь рожкового дерева ; Locust bean gum (Carob gum)
+E412 ; HALAL ; Гуаровая камедь ; Guar gum
+E413 ; HALAL ; Трагакант ; Трагакант
+E414 ; HALAL ; Гуммиарабик ; Acacia gum (gum arabic)
+E415 ; HALAL ; Ксантановая камедь ; Xanthan gum
+E416 ; HALAL ; Карайи камедь ; Karaya gum
+E417 ; HALAL ; Тары камедь ; Tara gum
+E418 ; HALAL ; Геллановая камедь ; Gellan gum
+E420 ; HALAL ; Сорбит ; Sorbitol
+E421 ; HALAL ; Маннит ; Mannitol
+//------
+E422 ; MUSHBOOH ; Глицерин ; Glycerol
+//------
+E425 ; HALAL ; Коньяк смола ; Konjac
+E430 ; HALAL ; Полиоксиэтилена (8) стеарат ; Polyoxyethene (8) stearate
+E431 ; HALAL ; Полиоксиэтилен (40) стеарат ; Polyoxyethene (40) stearate
+E432 ; HALAL ; Полиоксиэтиленсорбитан (20) монолаурат/полисорбат 20 ; Polyoxyethene (20) sorbitan monolaurate (polysorbate 20)
+E433 ; HALAL ; Полиоксиэтиленсорбитан (20) моноолеат/полисорбат 80 ; Polyoxyethene (20) sorbitan monooleate (polysorbate 80)
+E434 ; HALAL ; Полиоксиэтиленсорбитан (20) монопальмитат/полисорбат 40 ; Polyoxyethene (20) sorbitan monopalmitate (polysorbate 40)
+E435 ; HALAL ; Полиоксиэтилен сорбитан (20) моностеарат/полисорбат 60 ; Polyoxyethene (20) sorbitan monostearate (polysorbate 60)
+E436 ; HALAL ; Полиоксиэтиленсорбитан (20) тристеарат/полисорбат 65 ; Polyoxyethene (20) sorbitan tristearate (polysorbate 65)
+E440A ; HALAL ; Пектин ; Pectin
+E440B ; HALAL ; Амидированный пектин ; Amidated pectin
+//------
+E441 ; MUSHBOOH ; Желатин ; Gelatin
+//------
+E442 ; HALAL ; Фосфатида аммонийные соли ; Ammonium phosphatides
+E444 ; HALAL ; Сахарозы ацетат изобутират ; Sucrose acetate isobutyrate
+//------
+E445 ; MUSHBOOH ; Эфиры глицерина и смоляных кислот ; Glycerol esters of wood rosins
+//------
+E450 A,B,C ; HALAL ; Фосфаты и полифосфаты натрия и калия ; Sodium and potassium phosphates and polyphosphates
+E451 ; HALAL ; Трифосфаты ; Triphosphates
+E452 ; HALAL ; Полифосфаты ; Polyphosphates
+E459 ; HALAL ; Бета-циклодекстрин ; Beta-cyclodextrin
+// -------------------
+E460 ; HALAL ; Микрокристаллическая целлюлоза, целлюлоза в порошке ; Microcrystalline cellulose/Powdered cellulose
+E461 ; HALAL ; Метилцеллюлоза ; Methyl cellulose
+E463 ; HALAL ; Гидроксипропилцеллюлоза ; Hydroxypropyl cellulose
+E464 ; HALAL ; Гидроксипропилметилцеллюлоза ; hydroxypropyl methylcellulose
+E465 ; HALAL ; Этилметилцеллюлоза ; Ethyl methyl cellulose
+E466 ; HALAL ; Карбоксиметилцеллюлоза ; Carboxymethyl cellulose, Sodium carboxymethyl cellulose
+E467 ; HALAL ; Этилгидроксиэтилцеллюлоза ; Ethyl hydroxyethyl cellulose
+E468 ; HALAL ; Карбоксиметилцеллюлозы натриевая соль трехмерная ; Crosslinked sodium carboxymethyl cellulose
+E469 ; HALAL ; Гидролизуемая под действием ферментнов карбоксиметилцеллюлоза ; Enzymically hydrolysed carboxymethylcellulose
+//------
+E470 ; MUSHBOOH ; Жирных кислотсоли калия, кальция, натрия ; Sodium, potassium and calcium salts of fatty acids
+E471 ; MUSHBOOH ; Моно- и диглицериды жирных кислот ; Mono- and diglycerides of fatty acids
+E472 ; MUSHBOOH ; Различные эфиры моно- и диглицеридов жирных кислот ; Various esters of mono- and diglycerides of fatty acids
+E472E ; MUSHBOOH ; Эфиры глицерина, диацетилвинной и жирных кислот ; Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids
+E473 ; MUSHBOOH ; Эфиры сахарозы и жирных кислот ; Sucrose esters of fatty acids
+E474 ; MUSHBOOH ; Сахароглицериды ; Sucroglycerides
+E475 ; MUSHBOOH ; Эфиры полиглицеридов и жирных кислот ; Polyglycerol esters of fatty acids
+E476 ; MUSHBOOH ; Полиглицерин, полирицинолеаты ; Polyglycerol polyricinoleate
+E477 ; MUSHBOOH ; Пропан-1,2-диоловые эфиры жирных кислот ; Propane-1,2-diol esters of fatty acids, propylene glycol esters of fatty acids
+E478 ; MUSHBOOH ; Эфиры лактилированных жирных кислот глицерина и пропиленгликоля ; Lactylated fatty acid esters of glycerol and propane-1
+E479B ; MUSHBOOH ; Термически окисленное соевое и бобовое масло с моно- и диглицеридами жирных кислот ; Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids
+E481 ; MUSHBOOH ; Стеароил-2-лактилат натрия ; Sodium stearoyl-2-lactylate
+E482 ; MUSHBOOH ; Стеароил-2-лактилат кальция ; Calcium stearoyl-2-lactylate
+E483 ; MUSHBOOH ; Стеарилтартрат ; Stearyl tartrate
+E491 ; MUSHBOOH ; Сорбитан моностеарат ; Sorbitan monostearate
+E492 ; MUSHBOOH ; Сорбитан тристеарат ; Sorbitan tristearate
+E493 ; MUSHBOOH ; Сорбитан монолаурат ; Sorbitan monolaurate
+E494 ; MUSHBOOH ; Сорбитан моноолеат ; Sorbitan monooleate
+E495 ; MUSHBOOH ; Сорбитан монопальмитат ; Sorbitan monopalmitate
+//------
+E500 ; HALAL ; Карбонат натрия ; Sodium carbonate/sodium
+E501 ; HALAL ; Карбонат калия ; Potassium carbonate/potassium
+E503 ; HALAL ; Карбонат аммония ; Ammonium carbonate
+E504 ; HALAL ; Карбонат магния ; Magnesium carbonate
+E507 ; HALAL ; Соляная кислота ; Hydrochloric acid
+E508 ; HALAL ; Хлорид калия ; Potassium chloride
+E509 ; HALAL ; Хлорид кальция ; Calcium chloride
+E510 ; HALAL ; Хлорид аммония ; Ammonium chloride
+E511 ; HALAL ; Хлорид магния ; Magnesium chloride
+E512 ; HALAL ; Хлорид олова ; Stannous chloride
+E513 ; HALAL ; Серная кислота ; Sulphuric acid
+E514 ; HALAL ; Сульфат натрия ; Sodium sulphate
+E515 ; HALAL ; Сульфат калия ; Potassium sulphate
+E516 ; HALAL ; Сульфат кальция ; Calcium sulphate
+E517 ; HALAL ; Сульфат аммония ; Ammonium sulphate
+E518 ; HALAL ; Сульфат магния ; Magnesium sulphate
+E520 ; HALAL ; Сульфат алюминия ; Aluminium sulphate
+E521 ; HALAL ; Сульфат алюминия-натрия ; Aluminium sodium sulphate
+E522 ; HALAL ; Сульфат алюминия-калия ; Aluminium potassium sulphate
+E523 ; HALAL ; Сульфат алюминия-аммония ; Aluminium ammonium sulphate
+E524 ; HALAL ; Гидроксид натрия ; Sodium hydroxide
+E525 ; HALAL ; Гидроксид калия ; Potassium hydroxide
+E526 ; HALAL ; Гидроксид кальция ; Calcium hydroxide
+E527 ; HALAL ; Гидроксид аммония ; Ammonium hydroxide
+E528 ; HALAL ; Гидроксид магния ; Magnesium hydroxide
+E529 ; HALAL ; Оксид кальция ; Calcium oxide
+E530 ; HALAL ; Оксид магния ; Magnesium oxide
+E535 ; HALAL ; Ферроцианид натрия ; Sodium ferrocyanide
+E536 ; HALAL ; Ферроцианид калия ; Potassium ferrocyanide
+E538 ; HALAL ; Ферроцианид кальция ; Calcium ferrocyanide
+E540 ; HALAL ; Дикальция дифосфат ; Dicalcium diphosphate
+E541 ; HALAL ; Алюмофосфат натрия ; Sodium aluminium phosphate
+//------
+E542 ; MUSHBOOH ; Костный фосфат ; Edible bone phosphate (bone-meal)
+//------
+E544 ; HALAL ; Полифосфат кальция ; Calcium polyphosphate
+E545 ; HALAL ; Полифосфат аммония ; Ammonium polyphosphate
+E550 ; HALAL ; Силикат натрия ; Sodium Silicate
+E551 ; HALAL ; Диоксид кремния ; Silicon dioxide (Silica salt)
+E552 ; HALAL ; Силикат кальция ; Calcium silicate
+E553 ; HALAL ; Силикат магния/тальк ; Magnesium silicate/ Magnesium trisilicate (talc)
+E554 ; HALAL ; Алюмосиликат натрия ; sodium aluminium silicate
+E555 ; HALAL ; Алюмосиликат калия ; Potassium aluminium silicate
+E556 ; HALAL ; Алюмосиликат кальция ; calcium aluminium silicate
+E558 ; HALAL ; Бентонит ; Bentonite
+E559 ; HALAL ; Алюмосиликат (Каолин) ; Aluminium silicate (Kaolin)
+//------
+E570 ; MUSHBOOH ; Стеариновая кислота ; Stearic acid
+E572 ; MUSHBOOH ; Стеарат магния ; Magnesium stearate
+//------
+E574 ; HALAL ; Глюконовая кислота ; Gluconic acid
+E575 ; HALAL ; Глюконо-дельта-лактон ; Glucono delta-lactone
+E576 ; HALAL ; Глюконат натрия ; Sodium gluconate
+E577 ; HALAL ; Глюконат калия ; Potassium gluconate
+E578 ; HALAL ; Глюконат кальция ; Calcium gluconate
+E585 ; HALAL ; Лактат железа ; Ferrous lactate
+E620 ; HALAL ; Глутаминовая кислота ; Glutamic acid
+E621 ; HALAL ; Глютамат натрия ; Monosodium glutamate
+E622 ; HALAL ; Глутамат калия однозамещенный ; Monopotassium glutamate
+E623 ; HALAL ; Диглутамат кальция ; Calcium diglutamate
+E624 ; HALAL ; Глутамат аммония однозамещенный ; Monoammonium glutamate
+E625 ; HALAL ; Диглутамат магния ; Magnesium diglutamate
+E626 ; HALAL ; Гуаниловая кислота ; Guanylic acid
+E627 ; HALAL ; Гуанилат натрия ; sodium guanylate
+E628 ; HALAL ; 5-гуанилат калия двузамещенный ; Dipotassium guanylate
+E629 ; HALAL ; 5-гуанилат кальция ; Calcium guanylate
+//------
+E630 ; MUSHBOOH ; Инозиновая кислота ; Inosinic acid
+E631 ; MUSHBOOH ; Инозинат натрия двузамещенный ; Disodium inosinate
+E632 ; MUSHBOOH ; Инозинат калия двузамещенный ; Dipotassium inosinate
+E633 ; MUSHBOOH ; 5-инозинат кальция ; Calcium inosinate
+E634 ; MUSHBOOH ; 5-рибонуклеотиды кальция ; Calcium 5 &#039;-ribonucleotides
+E635 ; MUSHBOOH ; 5-рибонуклеотиды натрия двузамещенные ; Disodium 5 &#039;-ribonucleotides
+//------
+
+E636 ; HALAL ; Мальтол ; Maltol
+
+E637 ; HALAL ; Этилмальтол ; Ethyl maltol
+//------
+
+E640 ; MUSHBOOH ; Глицин и его натриевые соли ; Glycine and its sodium salt
+//------
+
+E650 ; HALAL ; Ацетат цинка ; Zinc acetate
+
+E900 ; HALAL ; Диметилполисилоксан ; Dimethyl polysiloxane
+
+E901 ; HALAL ; Пчелиный воск ; Beeswax
+
+E902 ; HALAL ; Воск карнаубский ; Candelilla wax
+
+E903 ; HALAL ; Воск свечной ; Carnauba wax
+//------
+
+E904 ; MUSHBOOH ; Шеллак ; Shellac
+//------
+
+E905 ; HALAL ; Парафины ; Paraffins
+
+E907 ; HALAL ; Поли-1-децен гидрогенизированный ; Refined microcrystalline wax
+
+E912 ; HALAL ; Эфиры монтаниновой кислоты ; Montanic acid esters
+
+E913 ; HALAL ; Ланолин ; Lanolin
+
+E914 ; HALAL ; Окисленный полиэтиленовый воск ; Oxidized polyethylene wax
+//------
+
+E920 ; MUSHBOOH ; L-цистеин ; L-cysteine hydrochloride
+//------
+
+E924 ; HALAL ; Бромат калия ; Potassium bromate
+
+E925 ; HALAL ; Хлор ; Chlorine
+
+E926 ; HALAL ; Диоксид хлора ; Chlorine dioxide
+
+E927B ; HALAL ; Карбамид ; Carbamide
+
+E938 ; HALAL ; Аргон ; Argon
+
+E939 ; HALAL ; Гелий ; Helium
+
+E940 ; HALAL ; Дихлордифторметан ; Dichlorodifluoromethane
+
+E941 ; HALAL ; Азот ; Nitrogen
+
+E942 ; HALAL ; Закись азота ; Nitrous oxide
+
+E943A ; HALAL ; Бутан ; Butane
+
+E943B ; HALAL ; Изобутан ; Isobutane
+
+E944 ; HALAL ; Пропан ; Propane
+
+E949 ; HALAL ; Водород ; Hydrogen
+
+E951 ; HALAL ; Аспартам ; Aspartame
+
+E953 ; HALAL ; Изомальтит ; Isomalt
+
+E954 ; HALAL ; Сахарин ; Saccharin
+
+E965 ; HALAL ; Мальтит ; Sucralose
+
+E966 ; HALAL ; Лактит ; Alitame
+
+E967 ; HALAL ; Тауматин ; Thaumatin
+//------
+E999 ; HARAM ; Экстракт Квиллайи ; Quillaia extract
+
+
+
+; HALAL ; Уксусная кислота ; Acetic acid
+
+; HALAL ; Ацетон ; Acetone
+//------
+
+; HARAM ; Аденозин 5 &#039;-монофосфат ; Adenosine 5- Monophosphate
+//------
+
+; HALAL ; Агар ; Agar
+
+; HALAL ; Альбумин ; Albumin
+//------
+
+; HARAM ; Алкоголь как растворитель для придания аромата ; Alcohol as solvent in flavour
+
+; HARAM ; Алкоголь в сухой форме в качестве ингредиента ; Alcohol in dry form used as ingredient
+//------
+
+; HALAL ; Альгин ; Algin
+
+; HALAL ; Душистый перец ; Allspice
+
+; HALAL ; Квасцы ; Alum
+
+; HALAL ; Сульфат алюминия ; Aluminum sulphate
+
+; HALAL ; Аммоний (бикарбонат, карбонат, хлорид, сульфат) ; Ammonium (bicarbonate, carbonate, chloride, sulfate)
+
+; HALAL ; Альфа-амилаза ; Amylase (Alpha)
+
+; HALAL ; Анис ; Anise
+
+; HALAL ; Аннатто ; Annatto
+
+; HALAL ; Арроурут ; Arrowroot
+//------
+
+; MUSHBOOH ; Искусственные красители ; Artificial colours
+
+; MUSHBOOH ; Искусственные ароматизаторы ; Artificial flavours
+//------
+
+; HALAL ; Аскорбиновая кислота ; Ascorbic acid
+
+; HALAL ; Аскорбиновая кислота (Витамин С) ; ascorbic acid or vitamin C
+
+; HALAL ; Аспартам ; Aspartame
+
+; HALAL ; Азодикарбонамид ; Azodicarbonamide
+//------
+
+; HARAM ; Бекон ; Bacon
+
+; HARAM ; Кусочки бекона ; Bacon bits
+//------
+
+; HALAL ; Пекарские дрожжи ; Bakers yeast
+
+; HALAL ; Экстракт пекарских дрожжей ; Bakers yeast extract
+
+; HALAL ; Разрыхлитель теста ; Baking powder
+
+; HALAL ; Пищевая сода ; Baking soda
+//------
+
+; HARAM ; Бальзамический уксус ; Balsamic vinegar
+//------
+
+; HALAL ; Базилик ; Basil
+
+; HALAL ; Лавровый лист ; Bay leaves
+//------
+
+; HARAM ; Пиво ; Beer
+
+; HARAM ; Ароматизатор пива ; Beer Flavour
+//------
+
+; HALAL ; Пчелиный воск ; Beeswax
+
+; HALAL ; Бензальдегид ; Benzaldehyde
+
+; HALAL ; Бензойная кислота ; Benzoic acid
+//------
+
+; MUSHBOOH ; Бета-каротин ; Beta-carotene
+
+; MUSHBOOH ; Бутилоксианизол или бутилгидрокситолуол ; Bha or Bht
+//------
+
+; HALAL ; Отруби ; Bran
+//------
+
+; HARAM ; Экстракт пивных дрожжей ; Brewers yeast extract
+
+; HARAM ; Пивные дрожжи ; Brewers yeast
+//------
+
+; HALAL ; Булгур ; Bulgur wheat
+//------
+
+; MUSHBOOH ; Липолизированный молочный жир ; Butter fat lipolyzed
+
+; MUSHBOOH ; Сухие кисломолочные продукты ; Buttermilk solids
+//------
+
+; HALAL ; Кофеин ; Caffeine
+
+; HALAL ; Кальций (Карбонат, хлорид, цитрат, сорбат, сульфат) ; Calcium (Carbonate, Chloride, Citrate, Sorbate, Sulfate)
+
+; HALAL ; Пропионат кальция ; Calcium propionate
+//------
+
+; MUSHBOOH ; Стеарат кальция ; Calcium Stearate
+
+; MUSHBOOH ; Стеароил-лактилат кальция ; Calcium Stearoyl Lactylate
+//------
+
+; HALAL ; Масло канолы ; Canola oil
+
+; HALAL ; Карамель ; Caramel
+
+; HALAL ; Тмин ; Caraway
+
+; HALAL ; Карбоксиметилцеллюлоза ; Carboxymethylcellulose
+
+; HALAL ; Кардамон ; Cardamom
+
+; HALAL ; Воск карнаубский ; Carnauba wax
+
+; HALAL ; Рожковое дерево
+
+
+
+Е 100–199;Красители, усиливающие естественный цвет или возвращающий потерянный оттенок во время изготовления продукта
+Е 200–299;Продлевающие срок хранения продуктов консерванты
+Е 300–399;Антиоксиданты или антиокислители, препятствующие порче продуктов
+Е 400–499;Загустители, эмульгаторы и стабилизаторы, влияющие на консистенцию продукта
+Е 500–599;Вещества, сохраняющие структуру продукта за счёт нормализации кислотности, влажности. Также их называют ещё разрыхлителями. Они препятствуют «слёживанию» продуктов
+Е 600–699;Усилители вкуса и запаха
+Е 700–799;Пищевые добавки, имеющие выраженные антибактериальные свойства.
+Е 800–899;Категория, оставленная под новые добавки
+Е 900–999;Подсластители и пеногасители
+Е 1000–1999;Группа пищевых добавок с обширным спектром действия: глазирующие (антифламинги), солеплавители, текстураторы, разделители, герметики, газосжиматели
+
+

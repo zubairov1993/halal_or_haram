@@ -1,0 +1,132 @@
+.supplements {
+  margin-top: 30px;
+  width: 100%;
+  overflow: scroll;
+  position: relative;
+  border-radius: 10px;
+  scrollbar-color: #5E636D transparent;
+  appearance: none;
+  -webkit-appearance: none;
+  scrollbar-width: thin;
+
+  &__table {
+    width: 100%;
+    box-shadow: none;
+    overflow: scroll;
+
+    tr:hover {
+      background: #28243D;
+    }
+
+    .mat-column-number {
+      width: 120px;
+      min-width: 120px;
+      max-width: 120px;
+    }
+
+    .mat-column-status {
+      width: 120px;
+      min-width: 120px;
+      max-width: 120px;
+    }
+
+    tr > th {
+      position: sticky;
+      top: 0;
+      background-color: #F4F5FA;
+      z-index: 1;
+    }
+
+    th {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 18px;
+      border-right: 1px solid #464C58 !important;
+      border-bottom: none !important;
+      border-top: none !important;
+      padding-left: 10px;
+      padding-right: 10px !important;
+
+      span {
+        border-bottom: 1px dashed #343942;
+      }
+    }
+
+    td {
+      cursor: pointer;
+      font-size: 16px;
+      border-right: 1px solid #464C58 !important;
+      border-bottom: none !important;
+      border-top: none !important;
+      padding: 20px 10px;
+      vertical-align: top;
+
+      p {
+        font-size: 14px;
+      }
+    }
+  }
+
+  &::-webkit-scrollbar {
+    appearance: none;
+    -webkit-appearance: none;
+  }
+
+  &::-webkit-scrollbar-corner {
+    background-color: transparent!important;
+  }
+
+  &::-webkit-scrollbar:vertical {
+    width: 4px;
+  }
+
+  &::-webkit-scrollbar:horizontal {
+    height: 8px;
+    position: absolute;
+    padding-top: -40px!important;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #5E636D;
+    border-radius: 10px;
+    border: none;
+  }
+
+  &::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: transparent;
+  }
+}
+
+.light {
+  tr > th {
+    background-color: #F4F5FA;
+  }
+
+  tr:hover {
+    background: #eeeef4;
+  }
+}
+
+.dark {
+  tr > th {
+    background-color: #28243D;
+  }
+
+  tr:hover {
+    background: #5b557a38;
+  }
+}
+
+.green {
+  color: #56CA00;
+}
+
+.red {
+  color: red;
+}
+
+.orange {
+  color: #FFB400;
+}
