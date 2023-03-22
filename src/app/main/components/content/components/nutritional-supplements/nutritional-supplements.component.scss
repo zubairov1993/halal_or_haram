@@ -1,5 +1,21 @@
+.additive_search {
+  display: flex;
+  margin-right: 10px;
+
+  &-select {
+    margin-right: 10px;
+  }
+
+  &-input {
+    width: 100%;
+
+    &_field {
+      width: 100%;
+    }
+  }
+}
+
 .supplements {
-  margin-top: 30px;
   width: 100%;
   overflow: scroll;
   position: relative;
@@ -13,10 +29,6 @@
     width: 100%;
     box-shadow: none;
     overflow: scroll;
-
-    tr:hover {
-      background: #28243D;
-    }
 
     .mat-column-number {
       width: 120px;
@@ -33,13 +45,10 @@
     tr > th {
       position: sticky;
       top: 0;
-      background-color: #F4F5FA;
       z-index: 1;
     }
 
     th {
-      font-style: normal;
-      font-weight: normal;
       font-size: 14px;
       line-height: 18px;
       border-right: 1px solid #464C58 !important;
@@ -47,6 +56,7 @@
       border-top: none !important;
       padding-left: 10px;
       padding-right: 10px !important;
+      text-transform: uppercase;
 
       span {
         border-bottom: 1px dashed #343942;
@@ -61,6 +71,8 @@
       border-top: none !important;
       padding: 20px 10px;
       vertical-align: top;
+      font-family: 'Inter';
+      font-weight: 400;
 
       p {
         font-size: 14px;
@@ -99,34 +111,125 @@
   }
 }
 
-.light {
+::ng-deep .light {
+  background: #F4F5FA;
+
   tr > th {
     background-color: #F4F5FA;
+  }
+
+  td, th {
+    color: #3A3541DE;
   }
 
   tr:hover {
     background: #eeeef4;
   }
+
+  // цвет текста ввода
+  .mat-form-field {
+    .mat-input-element {
+      color: #544F5A;
+    }
+  }
+
+  // цвет border
+  .mat-form-field-appearance-outline .mat-form-field-outline {
+    color: #D2D1D3 !important;
+  }
+
+  // цвет label
+  .mat-form-field-label {
+    color: #89868D !important;
+  }
+
+  // цвет focused label
+  .mat-form-field.mat-focused .mat-form-field-label {
+    color: #9155FD !important;
+  }
+
+  // цвет focused border
+  .mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
+    color: #9155FD !important;
+  }
+
+  // цвет выбранного селекта
+  .mat-select-value {
+    color: #544F5A !important;
+  }
 }
 
-.dark {
+::ng-deep .select-light {
+  // цвет элемента в списке селекта
+  .mat-option-text {
+    color: #89868D !important;
+  }
+}
+
+::ng-deep .dark {
+  background: #28243D;
+
   tr > th {
     background-color: #28243D;
   }
 
+  td, th {
+    color: #E7E3FCDE;
+  }
+
   tr:hover {
-    background: #5b557a38;
+    background: #383452;
+  }
+
+  // цвет текста ввода
+  .mat-form-field {
+    .mat-input-element {
+      color: #CFCBE5;
+    }
+  }
+
+  // цвет border
+  .mat-form-field-appearance-outline .mat-form-field-outline {
+    color: #5B5774 !important;
+  }
+
+  // цвет label
+  .mat-form-field-label {
+    color: #76728E !important;
+  }
+
+  // цвет focused label
+  .mat-form-field.mat-focused .mat-form-field-label {
+    color: #9155FD !important;
+  }
+
+  // цвет focused border
+  .mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
+    color: #9155FD !important;
+  }
+
+  // цвет выбранного селекта
+  .mat-select-value {
+    color: #CFCBE5 !important;
+  }
+}
+
+::ng-deep .select-dark {
+  background: #312D4B;
+  // цвет элемента в списке селекта
+  .mat-option-text {
+    color: #CFCBE5 !important;
   }
 }
 
 .green {
-  color: #56CA00;
+  color: #56CA00 !important;
 }
 
 .red {
-  color: red;
+  color: red !important;
 }
 
 .orange {
-  color: #FFB400;
+  color: #FFB400 !important;
 }

@@ -5,6 +5,8 @@ import { CommonModule } from '@angular/common'
 import { NgModule } from '@angular/core'
 import { MatFormFieldModule } from '@angular/material/form-field'
 import { MatInputModule } from '@angular/material/input'
+import { MatSelectModule } from '@angular/material/select'
+import { FormsModule } from '@angular/forms';
 
 import { NutritionalSupplementsComponent } from './nutritional-supplements.component'
 
@@ -16,6 +18,8 @@ import { NutritionalSupplementsComponent } from './nutritional-supplements.compo
     TranslateModule,
     MatFormFieldModule,
     MatInputModule,
+    MatSelectModule,
+    FormsModule,
     RouterModule.forChild([
       { path: '', component: NutritionalSupplementsComponent }
     ]),

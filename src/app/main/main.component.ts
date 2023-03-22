@@ -14,8 +14,8 @@ export class MainComponent implements OnInit {
   ngOnInit() {
     this.mainService.themeSubject$.subscribe(theme => {
       const main = document.getElementById('main') as HTMLInputElement
-      main.classList.remove(main.classList[1]);
-      main.classList.add(theme);
+      main.classList.remove(main.classList[1])
+      main.classList.add(theme)
     })
   }
 

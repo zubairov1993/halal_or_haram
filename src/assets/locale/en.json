@@ -2,6 +2,7 @@
   "table": {
     "additive" : "Additive",
     "status" : "Status",
-    "name" : "Name"
+    "name" : "Name",
+    "search" : "Search by additive and name"
   }
 }

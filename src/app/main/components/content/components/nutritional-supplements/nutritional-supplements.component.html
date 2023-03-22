@@ -1,11 +1,26 @@
-<div id="table_responsive" class="supplements table-responsive">
-  <div>
+<div class="additive_search">
 
+  <div class="additive_search-select">
     <mat-form-field appearance="outline">
-      <mat-label>Outline form field</mat-label>
-      <input matInput placeholder="Placeholder">
+      <mat-label>{{ 'table.status' | translate }}</mat-label>
+      <mat-select [panelClass]="panelClass" [(ngModel)]="sortingValue">
+        <mat-option *ngFor="let status of statuses" [value]="status" (click)="sortingDataSource(status)">
+          <span [class]="getClassColor(status)">{{ status }}</span>
+
+        </mat-option>
+      </mat-select>
     </mat-form-field>
   </div>
+
+  <div class="additive_search-input">
+    <mat-form-field class="additive_search-input_field" appearance="outline">
+      <mat-label>{{ 'table.search' | translate }}</mat-label>
+      <input (input)="onSearch.next($event)" matInput>
+    </mat-form-field>
+  </div>
+</div>
+<div id="table_responsive" class="supplements table-responsive">
+
 
   <table mat-table [dataSource]="dataSource" class="supplements__table" id="supplements__table">
 
