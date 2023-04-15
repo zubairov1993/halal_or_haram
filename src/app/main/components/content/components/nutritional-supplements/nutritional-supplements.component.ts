@@ -6,7 +6,7 @@ import { Subject } from 'rxjs'
 
 import { MainService } from '../../../../services/main.service'
 
-import { NutritionalSupplementsInterface } from './interfaces/nutritional-supplements.interface'
+import { IHalalOrHaram } from './interfaces/nutritional-supplements.interface'
 
 @Component({
   selector: 'app-nutritional-supplements',
@@ -16,7 +16,7 @@ import { NutritionalSupplementsInterface } from './interfaces/nutritional-supple
 })
 export class NutritionalSupplementsComponent implements OnInit {
   displayedColumns: string[] = ['number', 'status', 'name' ]
-  dataSource: NutritionalSupplementsInterface[] = []
+  dataSource: IHalalOrHaram[] = []
   onSearch = new Subject<any>()
 
   sortingValue: string | null = null
@@ -56,7 +56,7 @@ export class NutritionalSupplementsComponent implements OnInit {
 
   sortingDataSource(value: string) {
     if (value === 'ALL') this.dataSource = nutritionalSupplements
-    else this.dataSource = nutritionalSupplements.filter((item: NutritionalSupplementsInterface) => item.status.includes(value))
+    else this.dataSource = nutritionalSupplements.filter((item: IHalalOrHaram) => item.status.includes(value))
     this.cdr.detectChanges()
   }
 
@@ -65,29 +65,29 @@ export class NutritionalSupplementsComponent implements OnInit {
     if (value !== null && value.length >= 1) {
 
       if (this.sortingValue === 'ALL') {
-        this.dataSource = nutritionalSupplements.filter((item: NutritionalSupplementsInterface) => {
-          return item.number.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
+        this.dataSource = nutritionalSupplements.filter((item: IHalalOrHaram) => {
+          return item.additive?.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
         })
       }
 
       if (this.sortingValue === 'HALAL') {
         const halalArray = nutritionalSupplements.filter(item => item.status === 'HALAL')
-        this.dataSource = halalArray.filter((item: NutritionalSupplementsInterface) => {
-          return item.number.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
+        this.dataSource = halalArray.filter((item: IHalalOrHaram) => {
+          return item.additive?.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
         })
       }
 
       if (this.sortingValue === 'HARAM') {
         const haramArray = nutritionalSupplements.filter(item => item.status === 'HARAM')
-        this.dataSource = haramArray.filter((item: NutritionalSupplementsInterface) => {
-          return item.number.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
+        this.dataSource = haramArray.filter((item: IHalalOrHaram) => {
+          return item.additive?.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
         })
       }
 
       if (this.sortingValue === 'MUSHBOOH') {
         const mushboohArray = nutritionalSupplements.filter(item => item.status === 'MUSHBOOH')
-        this.dataSource = mushboohArray.filter((item: NutritionalSupplementsInterface) => {
-          return item.number.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
+        this.dataSource = mushboohArray.filter((item: IHalalOrHaram) => {
+          return item.additive?.toLowerCase().includes(value) || item.namerus.toLowerCase().includes(value) || item.namelat.toLowerCase().includes(value)
         })
       }
     }

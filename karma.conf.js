@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/mysait'),
+      dir: require('path').join(__dirname, './coverage/halal_or_haram'),
       subdir: '.',
       reporters: [
         { type: 'html' },
