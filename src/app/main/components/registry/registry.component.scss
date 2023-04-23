@@ -13,9 +13,20 @@
       width: 100%;
     }
   }
+
+  &-add {
+    button {
+      background: transparent;
+      border: 1px solid #C8AAFE;
+      color: #9155FD;
+      padding: 14px;
+      margin-left: 10px;
+      border-radius: 4px;
+    }
+  }
 }
 
-.supplements {
+.additive {
   width: 100%;
   overflow: scroll;
   position: relative;
@@ -123,10 +134,15 @@
   }
 
   tr:hover {
-    background: #eeeef4;
+    background: #eeeef4 !important;
   }
 
   // цвет текста ввода
+  .mat-mdc-form-field {
+    .mat-input-element {
+      color: #544F5A;
+    }
+  }
   .mat-form-field {
     .mat-input-element {
       color: #544F5A;
@@ -178,9 +194,14 @@
   }
 
   tr:hover {
-    background: #383452;
+    background: #383452 !important;
   }
 
+  .mat-mdc-form-field {
+    .mat-input-element {
+      color: #544F5A;
+    }
+  }
   // цвет текста ввода
   .mat-form-field {
     .mat-input-element {

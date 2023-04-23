@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "halal-or-haram-c8c65": {
+      "hosting": {
+        "halal_or_haram": [
+          "halal-or-haram-c8c65"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "halal-or-haram-c8c65"
+  }
+}

@@ -1,6 +1,7 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core'
-import { MainService } from '../../services/main.service'
-import { TranslateService } from '@ngx-translate/core';
+import { TranslateService } from '@ngx-translate/core'
+
+import { SharedService } from '../../../shared/shared.service'
 
 @Component({
   selector: 'app-header',
@@ -10,13 +11,16 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor(public mainService: MainService, private translateService: TranslateService) { }
+  constructor(
+    private translateService: TranslateService,
+    public sharedService: SharedService,
+  ) { }
 
   ngOnInit() {
   }
 
   changeTheme(theme: string) {
-    this.mainService.themeSubject$.next(theme)
+    this.sharedService.themeSubject$.next(theme)
   }
 
   changeLanguage() {

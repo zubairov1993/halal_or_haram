@@ -1,6 +1,6 @@
-import { IHalalOrHaram } from './nutritional-supplements.interface'
+import { IItem } from './registry.interface'
 
-export const nutritionalSupplements: IHalalOrHaram[] = [
+export const additives: any[] = [
   {
     additive: 'Е319',
     category: null,
@@ -3567,7 +3567,7 @@ export const nutritionalSupplements: IHalalOrHaram[] = [
     img: null,
     status: 'HALAL',
     namerus: 'Пекарские дрожжи',
-    namelat: 'Bakers yeast' ,
+    namelat: 'Bakers yeast',
     descrus: "Пекарские дрожжи являются пищевой добавкой, используемой как поднимающее вещество в выпечке. Они получаются путем культивирования грибов Saccharomyces cerevisiae.",
     desclat: "Baker's yeast is a food additive used as a leavening agent in baked goods. They are obtained by culturing the fungi Saccharomyces cerevisiae."
   },

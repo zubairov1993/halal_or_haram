@@ -18,7 +18,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component'
     RouterModule.forChild([
       {
         path: '', component: MainComponent, children: [
-          { path: 'content', loadChildren: () => import('./components/content/content.module').then(m => m.ContentModule) },
+          { path: 'registry', loadChildren: () => import('./components/registry/registry.module').then(m => m.RegistryModule) },
         ]
       }
     ])

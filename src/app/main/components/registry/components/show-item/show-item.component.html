@@ -1,0 +1,50 @@
+<mat-dialog-content>
+  <form [formGroup]="form" (ngSubmit)="onSubmit(form)" novalidate>
+
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="Добавка" formControlName="additive">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="Наименование на русском" formControlName="namerus">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="Наименование на английском" formControlName="namelat">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-label>{{ 'table.status' | translate }}</mat-label>
+      <mat-select [panelClass]="panelClass" formControlName="status">
+        <mat-option *ngFor="let status of statuses" [value]="status">
+          <span [class]="sharedService.getClassColor(status)">{{ status }}</span>
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <mat-select placeholder="Категория" formControlName="category">
+        <mat-option value="meat">Мясо</mat-option>
+        <mat-option value="dairy">Молочные продукты</mat-option>
+        <mat-option value="vegetables">Овощи</mat-option>
+        <mat-option value="fruits">Фрукты</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <textarea matInput placeholder="Описание на русском" formControlName="descrus"></textarea>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline">
+      <textarea matInput placeholder="Описание на английском" formControlName="desclat"></textarea>
+    </mat-form-field>
+
+
+    <input type="file" (change)="onFileSelected($event)">
+
+  </form>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="onClose()">Отмена</button>
+  <button mat-raised-button color="primary" [disabled]="!form.valid" (click)="onSubmit(form)">Добавить</button>
+</mat-dialog-actions>

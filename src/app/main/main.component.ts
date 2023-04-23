@@ -1,5 +1,5 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core'
-import { MainService } from './services/main.service'
+import { SharedService } from '../shared/shared.service'
 
 @Component({
   selector: 'app-main',
@@ -9,10 +9,10 @@ import { MainService } from './services/main.service'
 })
 export class MainComponent implements OnInit {
 
-  constructor(public mainService: MainService) { }
+  constructor(public sharedService: SharedService,) { }
 
   ngOnInit() {
-    this.mainService.themeSubject$.subscribe(theme => {
+    this.sharedService.themeSubject$.subscribe(theme => {
       const main = document.getElementById('main') as HTMLInputElement
       main.classList.remove(main.classList[1])
       main.classList.add(theme)
